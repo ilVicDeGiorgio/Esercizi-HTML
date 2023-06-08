@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML Lesson</title>
+  </head>
+  <body> 
+  <h1>Flussi di cassa in uscita utenti</h1>  
+  <table>
+    <thead>
+      <tr>
+        <th>Mesi</th>
+        <th>Voci di cassa utenti</th>
+        <th>Flussi di cassa in uscita utenti</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Gennaio</td>
+        <td>Uscite</td>
+        <td>-$500</td>
+      </tr>
+      <tr>
+        <td>Febbraio</td>
+        <td>Uscite</td>
+        <td>-$800</td>
+      </tr>
+      <tr>
+        <td>Marzo</td>
+        <td>Uscite</td>
+        <td>-$5600</td>
+      </tr>
+      <tr>
+        <td>Aprile</td>
+        <td>Uscite</td>
+        <td>-$0</td>
+      </tr>
+      <tr>
+        <td>Maggio</td>
+        <td>Uscite</td>
+        <td>-$300</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td>Totale</td>
+        <td></td>
+        <td>-$7200</td>
+      </tr>
+    </tfoot>
+  </table>
+  </body>
+</html>
+
