@@ -50,7 +50,7 @@
 </head>
 <body>
     <article class="card">
-        <img class="card-image" src="g.jpg" alt="Card image" >
+        <img class="card-image" src="g.jpg" alt="Card image">
         <h2 class="card-title">Card Title</h2>
         <p class="card-description">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         <hr class="card-line">
@@ -62,4 +62,5 @@
     </article>
 </body>
 </html>
+
 
